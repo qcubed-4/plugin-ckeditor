@@ -9,7 +9,7 @@ installable via Composer. The directions below show you how to install both.
 
 To install, execute the following on the command line from your main install directory:
 ```
-    composer require kukrik/ckeditor
+    composer require qcubed-4/plugin-ckeditor
 
     composer require ckeditor/ckeditor
 
